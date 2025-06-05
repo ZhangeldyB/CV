@@ -11,20 +11,6 @@
   },
   "content": [
     {
-      "title": "Education",
-      "items": [
-        {
-          "header1": "Astana IT University",
-          "header2": "Bachelor Degree, Software Engineering. GPA",
-          "location": "Astana, Kazakhstan",
-          "duration": "Sept 1, 2022 – June 30, 2025",
-          "text": [
-            "Relevant Coursework: Advanced Programming (Golang), Web technologies (Node.js, Bootstrap), Advanced Databases (MongoDB), Software Development Patterns, Cloud Computing (AWS), Computer Vision"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Experience",
       "items": [
         {
@@ -49,6 +35,20 @@
             "Collaborated in a 6-person Agile team, using Git and GitLab for version control and CI/CD automation.",
             "Documented 100% of backend APIs using Swagger, accelerating frontend integration",
             "Built custom middlewares for logging, rate limiting, and request validation"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "items": [
+        {
+          "header1": "Astana IT University",
+          "header2": "Bachelor Degree, Software Engineering. GPA",
+          "location": "Astana, Kazakhstan",
+          "duration": "Sept 1, 2022 – June 30, 2025",
+          "text": [
+            "Relevant Coursework: Advanced Programming (Golang), Web technologies (Node.js, Bootstrap), Advanced Databases (MongoDB), Software Development Patterns, Cloud Computing (AWS), Computer Vision"
           ]
         }
       ]
