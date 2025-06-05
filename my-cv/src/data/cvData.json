@@ -1,0 +1,113 @@
+{
+  "head": {
+    "name": "Zhangeldy Beisenov",
+    "location": "Astana, Kazakhstan",
+    "email": "zhantikbeisenov@gmail.com",
+    "phone_Number": "+7 (776) 975-10-70",
+    "links": [
+      "https://www.linkedin.com/in/zhangeldy-beisenov-074799255/",
+      "https://github.com/ZhangeldyB"
+    ]
+  },
+  "content": [
+    {
+      "title": "Education",
+      "items": [
+        {
+          "header1": "Astana IT University",
+          "header2": "Bachelor Degree, Software Engineering. GPA",
+          "location": "Astana, Kazakhstan",
+          "duration": "Sept 1, 2022 – June 30, 2025",
+          "text": [
+            "Relevant Coursework: Advanced Programming (Golang), Web technologies (Node.js, Bootstrap), Advanced Databases (MongoDB), Software Development Patterns, Cloud Computing (AWS), Computer Vision"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Experience",
+      "items": [
+        {
+          "header1": "Eco-Flow",
+          "header2": "Back-End developer",
+          "location": "Astana, Kazakhstan",
+          "duration": "November 2023 – December 2024",
+          "text": [
+            "Implemented RESTful API microservices on a clean architecture utilizing Git version control system.",
+            "Managed backend systems, optimizing for speed and covering it with tests (unit & integration).",
+            "Optimized 50+ MongoDB queries while helping with database management.",
+            "Developed a telegram bot, using 4 external APIs, including the OpenAI API."
+          ]
+        },
+        {
+          "header1": "iQadam Systems",
+          "header2": "Back-End developer intern",
+          "location": "Astana, Kazakhstan",
+          "duration": "March 2025 – May 2025",
+          "text": [
+            "Integrated MongoDB with Go backend, improving data retrieval speed by 30+%.",
+            "Collaborated in a 6-person Agile team, using Git and GitLab for version control and CI/CD automation.",
+            "Documented 100% of backend APIs using Swagger, accelerating frontend integration",
+            "Built custom middlewares for logging, rate limiting, and request validation"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Leadership & Activities",
+      "items": [
+        {
+          "header1": "Nazarbayev Intellectual School of physics and mathematics",
+          "header2": "President of the Student Council",
+          "location": "Kostanay, Kazakhstan",
+          "duration": "September 2020 – August 2021",
+          "text": [
+            "Organized a series of events for over 600 students at both the Republican and city levels.",
+            "Led a cross-functional team of up to 25 people, including designers, writers, activists, and analysts.",
+            "Partnered with 3+ organizations to enhance student experiences"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills & Interests",
+      "items": [
+        {
+          "header1": "",
+          "header2": "Technical",
+          "location": "",
+          "duration": "",
+          "text": [
+            "Programming languages: Golang, Python, Java",
+            "Database Management: MongoDB",
+            "Version Control: Git",
+            "Web Development: HTML/CSS, JavaScript, React.js"
+          ]
+        },
+        {
+          "header1": "",
+          "header2": "Language",
+          "location": "",
+          "duration": "",
+          "text": [
+            "Kazakh, Russian - Native",
+            "English - Advanced",
+            "German, Spanish – Elementary"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Certificates",
+      "items": [
+        {
+          "header1": "",
+          "header2": "",
+          "location": "",
+          "duration": "",
+          "text": ["Linux Essentials Professional Development Certificate – Linux Professional Institute (LPI)", "IT Essentials: PC Hardware and Software - Cisco Networking Academy"]
+        }
+      ]
+    }
+  ]
+}
