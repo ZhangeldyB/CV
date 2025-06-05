@@ -31,7 +31,7 @@
           "header1": "Eco-Flow",
           "header2": "Back-End developer",
           "location": "Astana, Kazakhstan",
-          "duration": "November 2023 – December 2024",
+          "duration": "November 2023 – October 2024",
           "text": [
             "Implemented RESTful API microservices on a clean architecture utilizing Git version control system.",
             "Managed backend systems, optimizing for speed and covering it with tests (unit & integration).",
@@ -43,7 +43,7 @@
           "header1": "iQadam Systems",
           "header2": "Back-End developer intern",
           "location": "Astana, Kazakhstan",
-          "duration": "March 2025 – May 2025",
+          "duration": "November 2024 – May 2025",
           "text": [
             "Integrated MongoDB with Go backend, improving data retrieval speed by 30+%.",
             "Collaborated in a 6-person Agile team, using Git and GitLab for version control and CI/CD automation.",
