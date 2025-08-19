@@ -14,15 +14,16 @@
       "title": "Experience",
       "items": [
         {
-          "header1": "Eco-Flow",
-          "header2": "Back-End developer",
+          "header1": "Sagi",
+          "header2": "Middle Back-End developer",
           "location": "Astana, Kazakhstan",
-          "duration": "November 2023 – October 2024",
+          "duration": "July 2025 – Present time",
           "text": [
-            "Implemented RESTful API microservices on a clean architecture utilizing Git version control system.",
-            "Managed backend systems, optimizing for speed and covering it with tests (unit & integration).",
-            "Optimized 50+ MongoDB queries while helping with database management.",
-            "Developed a telegram bot, using 4 external APIs, including the OpenAI API."
+            "Optimized DB queries, improving performance by 30%+.",
+            "Built new features that attracted 5 business partners.",
+            "Improved architecture, reducing dev time by 15%.",
+            "Integrated Google/Apple Wallet, WhatsApp, and payment systems.",
+            "Managed infrastructure with Kubernetes, GitLab CI/CD, Grafana, and DigitalOcean."
           ]
         },
         {
@@ -44,7 +45,7 @@
       "items": [
         {
           "header1": "Astana IT University",
-          "header2": "Bachelor Degree, Software Engineering. GPA",
+          "header2": "Bachelor Degree, Software Engineering. GPA - 3.39",
           "location": "Astana, Kazakhstan",
           "duration": "Sept 1, 2022 – June 30, 2025",
           "text": [
