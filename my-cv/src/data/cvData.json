@@ -1,40 +1,41 @@
 {
-  "head": {
-    "name": "Zhangeldy Beisenov",
-    "location": "Astana, Kazakhstan",
-    "email": "zhantikbeisenov@gmail.com",
-    "phone_Number": "+7 (776) 975-10-70",
-    "links": [
-      "https://www.linkedin.com/in/zhangeldy-beisenov-074799255/",
-      "https://github.com/ZhangeldyB"
-    ]
-  },
-  "content": [
+  "en": {
+    "head": {
+      "name": "Zhangeldy Beisenov",
+      "location": "Astana, Kazakhstan",
+      "email": "zhantikbeisenov@gmail.com",
+      "phone_Number": "+7 (776) 975-10-70",
+      "links": [
+        "https://www.linkedin.com/in/zhangeldy-beisenov-074799255/",
+        "https://github.com/ZhangeldyB"
+      ]
+    },
+    "content": [
     {
       "title": "Experience",
       "items": [
         {
           "header1": "Sagi",
-          "header2": "Middle Back-End developer",
+          "header2": "Backend Developer (Golang)",
           "location": "Astana, Kazakhstan",
           "duration": "July 2025 – Present time",
           "text": [
-            "Optimized DB queries, improving performance by 30%+.",
-            "Built new features that attracted 5 business partners.",
-            "Improved architecture, reducing dev time by 15%.",
-            "Managed infrastructure with Kubernetes, GitLab CI/CD, Grafana, and DigitalOcean."
+            "Optimized MongoDB aggregation pipelines, reducing query latency from 25ms to <4ms",
+            "Developed REST API microservices in Golang serving 10K+ requests/day, enabling integration with 7+ business partners",
+            "Refactored monolithic codebase into modular architecture using dependency injection and clean architecture patterns, reducing feature development time by 15%",
+            "Managed production infrastructure on Kubernetes with automated CI/CD pipelines via GitLab"
           ]
         },
         {
           "header1": "iQadam Systems",
-          "header2": "Back-End developer intern",
+          "header2": "Backend Developer Intern (Golang)",
           "location": "Astana, Kazakhstan",
           "duration": "November 2024 – May 2025",
           "text": [
-            "Integrated MongoDB with Go backend, improving data retrieval speed by 30+%.",
-            "Collaborated in a 6-person Agile team, using Git and GitLab for version control and CI/CD automation.",
-            "Documented 100% of backend APIs using Swagger, accelerating frontend integration",
-            "Built custom middlewares for logging, rate limiting, and request validation"
+            "Redesigned MongoDB schema with proper indexing and denormalization strategies, improving query performance by 30% across 500K+ documents",
+            "Developed RESTful APIs in Go using Gin framework, handling authentication, security, and error handling for 15+ endpoints",
+            "Documented 100% of backend APIs using Swagger/OpenAPI 3.0 specification, reducing frontend integration time by 2 days per feature",
+            "Implemented middleware stack for structured logging, token bucket rate limiting (100 req/min), and request validation"
           ]
         }
       ]
@@ -44,27 +45,18 @@
       "items": [
         {
           "header1": "Astana IT University",
+          "header2": "Master's Degree, Secure Software Engineering",
+          "location": "Astana, Kazakhstan",
+          "duration": "Sept 2025 – June 2027",
+          "text": []
+        },
+        {
+          "header1": "Astana IT University",
           "header2": "Bachelor Degree, Software Engineering. GPA - 3.39",
           "location": "Astana, Kazakhstan",
-          "duration": "Sept 1, 2022 – June 30, 2025",
+          "duration": "Sept 2022 – June 2025",
           "text": [
             "Relevant Coursework: Advanced Programming (Golang), Web technologies (Node.js, Bootstrap), Advanced Databases (MongoDB), Software Development Patterns, Cloud Computing (AWS), Computer Vision"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Leadership & Activities",
-      "items": [
-        {
-          "header1": "Nazarbayev Intellectual School of physics and mathematics",
-          "header2": "President of the Student Council",
-          "location": "Kostanay, Kazakhstan",
-          "duration": "September 2020 – August 2021",
-          "text": [
-            "Organized a series of events for over 600 students at both the Republican and city levels.",
-            "Led a cross-functional team of up to 25 people, including designers, writers, activists, and analysts.",
-            "Partnered with 3+ organizations to enhance student experiences"
           ]
         }
       ]
@@ -74,40 +66,133 @@
       "items": [
         {
           "header1": "",
-          "header2": "Technical",
+          "header2": "Programming Languages",
           "location": "",
           "duration": "",
           "text": [
-            "Programming languages: Golang, Python, Java",
-            "Database Management: MongoDB",
-            "Version Control: Git",
-            "Web Development: HTML/CSS, JavaScript, React.js"
+            "Golang, Java"
           ]
         },
         {
           "header1": "",
-          "header2": "Language",
+          "header2": "Technologies",
+          "location": "",
+          "duration": "",
+          "text": [
+            "MongoDB, Redis, Docker, Kubernetes, Temporal, GitLab CI/CD, Grafana, DigitalOcean, HTML/CSS, JavaScript, React.js, Git, Linux"
+          ]
+        },
+        {
+          "header1": "",
+          "header2": "Languages",
           "location": "",
           "duration": "",
           "text": [
             "Kazakh, Russian - Native",
             "English - Advanced",
-            "German, Spanish – Elementary"
+            "German, Spanish - Elementary"
           ]
-        }
-      ]
-    },
-    {
-      "title": "Certificates",
-      "items": [
-        {
-          "header1": "",
-          "header2": "",
-          "location": "",
-          "duration": "",
-          "text": ["Linux Essentials Professional Development Certificate – Linux Professional Institute (LPI)", "IT Essentials: PC Hardware and Software - Cisco Networking Academy"]
         }
       ]
     }
   ]
+  },
+  "ru": {
+    "head": {
+      "name": "Жангельды Бейсенов",
+      "location": "Астана, Казахстан",
+      "email": "zhantikbeisenov@gmail.com",
+      "phone_Number": "+7 (776) 975-10-70",
+      "links": [
+        "https://www.linkedin.com/in/zhangeldy-beisenov-074799255/",
+        "https://github.com/ZhangeldyB"
+      ]
+    },
+    "content": [
+      {
+        "title": "Опыт работы",
+        "items": [
+          {
+            "header1": "Sagi",
+            "header2": "Backend-разработчик (Golang)",
+            "location": "Астана, Казахстан",
+            "duration": "Июль 2025 – Настоящее время",
+            "text": [
+              "Оптимизировал агрегационные конвейеры MongoDB, снизив задержку запросов с 25мс до <4мс",
+              "Разработал микросервисы REST API на Golang, обрабатывающие 10K+ запросов/день, обеспечив интеграцию с 7+ бизнес-партнерами",
+              "Рефакторинг монолитной кодовой базы в модульную архитектуру с использованием внедрения зависимостей и паттернов чистой архитектуры, сократив время разработки функций на 15%",
+              "Управлял инфраструктурой на Kubernetes с автоматизированными CI/CD конвейерами через GitLab"
+            ]
+          },
+          {
+            "header1": "iQadam Systems",
+            "header2": "Стажёр Backend-разработчика (Golang)",
+            "location": "Астана, Казахстан",
+            "duration": "Ноябрь 2024 – Май 2025",
+            "text": [
+              "Перепроектировал схему MongoDB с правильной индексацией и стратегиями денормализации, улучшив производительность запросов на 30% для 500K+ документов",
+              "Разработал RESTful API на Go с использованием фреймворка Gin, реализовав аутентификацию, безопасность и обработку ошибок для 15+ эндпоинтов",
+              "Документировал 100% бэкенд API с использованием спецификации Swagger/OpenAPI 3.0, сократив время интеграции фронтенда на 2 дня на фичу",
+              "Реализовал стек middleware на Go для структурированного логирования, rate limiting по алгоритму token bucket (100 req/min) и валидации запросов"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Образование",
+        "items": [
+          {
+            "header1": "Astana IT University",
+            "header2": "Степень магистра, Разработка безопасного ПО",
+            "location": "Астана, Казахстан",
+            "duration": "Сент 2025 – Июнь 2027",
+            "text": []
+          },
+          {
+            "header1": "Astana IT University",
+            "header2": "Степень бакалавра, Программная инженерия. GPA - 3.39",
+            "location": "Астана, Казахстан",
+            "duration": "Сент 2022 – Июня 2025",
+            "text": [
+              "Релевантные курсы: Продвинутое программирование (Golang), Веб-технологии (Node.js, React.js), Продвинутые базы данных (MongoDB), Паттерны разработки ПО, Облачные вычисления"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Навыки и интересы",
+        "items": [
+          {
+            "header1": "",
+            "header2": "Языки программирования",
+            "location": "",
+            "duration": "",
+            "text": [
+              "Golang, Java"
+            ]
+          },
+          {
+            "header1": "",
+            "header2": "Технологии",
+            "location": "",
+            "duration": "",
+            "text": [
+              "MongoDB, Redis, Docker, Kubernetes, Temporal, GitLab CI/CD, Grafana, DigitalOcean, HTML/CSS, JavaScript, React.js, Git, Linux"
+            ]
+          },
+          {
+            "header1": "",
+            "header2": "Языки",
+            "location": "",
+            "duration": "",
+            "text": [
+              "Казахский, Русский - Родной",
+              "Английский - Продвинутый",
+              "Немецкий, Испанский - Начальный"
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
