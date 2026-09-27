@@ -141,7 +141,7 @@
             "text": [
               "Снизил задержку MongoDB-запросов с 25 мс до менее 4 мс (более 84%) за счёт оптимизации aggregation pipelines",
               "Разрабатывал REST API и бизнес-процессы в Go-монолите, интегрировал 7+ бизнес-партнёров",
-              "Рефакторил свои функциональные области монолита в модули по Clean Architecture с dependency injection",
+              "Рефакторил свои функциональные области в модули по Clean Architecture с dependency injection",
               "Разработал процессы платежей и уведомлений на Temporal с очередями на Redis и worker pools на Go; управлял Kubernetes-деплойментами и GitLab CI/CD"
             ]
           }
