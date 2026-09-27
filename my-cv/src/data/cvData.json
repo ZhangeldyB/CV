@@ -11,91 +11,85 @@
       ]
     },
     "content": [
-    {
-      "title": "Experience",
-      "items": [
-        {
-          "header1": "Sagi",
-          "header2": "Backend Developer (Golang)",
-          "location": "Astana, Kazakhstan",
-          "duration": "July 2025 – Present time",
-          "text": [
-            "Optimized MongoDB aggregation pipelines, reducing query latency from 25ms to <4ms",
-            "Developed REST API microservices in Golang serving 10K+ requests/day, enabling integration with 7+ business partners",
-            "Refactored monolithic codebase into modular architecture using dependency injection and clean architecture patterns, reducing feature development time by 15%",
-            "Managed production infrastructure on Kubernetes with automated CI/CD pipelines via GitLab"
-          ]
-        },
-        {
-          "header1": "iQadam Systems",
-          "header2": "Backend Developer Intern (Golang)",
-          "location": "Astana, Kazakhstan",
-          "duration": "November 2024 – May 2025",
-          "text": [
-            "Redesigned MongoDB schema with proper indexing and denormalization strategies, improving query performance by 30% across 500K+ documents",
-            "Developed RESTful APIs in Go using Gin framework, handling authentication, security, and error handling for 15+ endpoints",
-            "Documented 100% of backend APIs using Swagger/OpenAPI 3.0 specification, reducing frontend integration time by 2 days per feature",
-            "Implemented middleware stack for structured logging, token bucket rate limiting (100 req/min), and request validation"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "items": [
-        {
-          "header1": "Astana IT University",
-          "header2": "Master's Degree, Secure Software Engineering",
-          "location": "Astana, Kazakhstan",
-          "duration": "Sept 2025 – June 2027",
-          "text": []
-        },
-        {
-          "header1": "Astana IT University",
-          "header2": "Bachelor Degree, Software Engineering. GPA - 3.39",
-          "location": "Astana, Kazakhstan",
-          "duration": "Sept 2022 – June 2025",
-          "text": [
-            "Relevant Coursework: Advanced Programming (Golang), Web technologies (Node.js, Bootstrap), Advanced Databases (MongoDB), Software Development Patterns, Cloud Computing (AWS), Computer Vision"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Skills & Interests",
-      "items": [
-        {
-          "header1": "",
-          "header2": "Programming Languages",
-          "location": "",
-          "duration": "",
-          "text": [
-            "Golang, Java"
-          ]
-        },
-        {
-          "header1": "",
-          "header2": "Technologies",
-          "location": "",
-          "duration": "",
-          "text": [
-            "MongoDB, Redis, Docker, Kubernetes, Temporal, GitLab CI/CD, Grafana, DigitalOcean, HTML/CSS, JavaScript, React.js, Git, Linux"
-          ]
-        },
-        {
-          "header1": "",
-          "header2": "Languages",
-          "location": "",
-          "duration": "",
-          "text": [
-            "Kazakh, Russian - Native",
-            "English - Advanced",
-            "German, Spanish - Elementary"
-          ]
-        }
-      ]
-    }
-  ]
+      {
+        "title": "Profile",
+        "items": [
+          {
+            "header1": "",
+            "header2": "Backend Software Engineer | Go",
+            "location": "",
+            "duration": "",
+            "text": [
+              "Go backend engineer with 3+ years of experience, from public-sector transport systems to logistics SaaS. Most recently responsible for the fuel module of Vektor TMS, a platform with $3.5B+ in freight moved for carriers in North America and Europe."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Experience",
+        "items": [
+          {
+            "header1": "Veido — Vektor TMS",
+            "header2": "Software Engineer (Go / Backend), Contract",
+            "location": "Remote",
+            "duration": "March 2026 – September 2026",
+            "text": [
+              "Rebuilt the legacy import-only fuel module into a full product: card controls, transaction ingestion, settlement deductions, anomaly flagging, analytics and IFTA",
+              "Wrote the specifications, data schemas and delivery plan from client requirements; the module handles $250K+/month in fuel spend for a single customer alone",
+              "Designed a new database and Go/gRPC microservices on GCP and Spanner, migrated gradually with backfills, used ClickHouse for analytics, and built the module's React UI",
+              "Stabilized the existing provider integrations and added new ones (WEX, EFS, TCS Fuel, Comdata, QuickQ); resolved sync incidents directly with vendors",
+              "Set up unit, integration and E2E tests (Spanner emulator) in GitHub Actions with Trivy and linting; onboarded 2 engineers and reviewed fuel-related PRs"
+            ]
+          },
+          {
+            "header1": "Sagi",
+            "header2": "Backend Developer (Go)",
+            "location": "Astana, Kazakhstan",
+            "duration": "February 2025 – March 2026",
+            "text": [
+              "Reduced MongoDB query latency from 25 ms to under 4 ms (over 84%) through aggregation pipeline optimization",
+              "Built REST APIs and business workflows in a Go monolith, integrating 7+ business partners",
+              "Refactored my feature areas of the monolith into modules using Clean Architecture and dependency injection",
+              "Built payment and notification workflows with Temporal, Redis queues and Go worker pools; managed Kubernetes deployments and GitLab CI/CD"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Education",
+        "items": [
+          {
+            "header1": "Astana IT University",
+            "header2": "Master's Degree, Secure Software Engineering",
+            "location": "Astana, Kazakhstan",
+            "duration": "September 2025 – June 2027",
+            "text": []
+          },
+          {
+            "header1": "Astana IT University",
+            "header2": "Bachelor's Degree, Software Engineering",
+            "location": "Astana, Kazakhstan",
+            "duration": "September 2022 – June 2025",
+            "text": []
+          }
+        ]
+      },
+      {
+        "title": "Skills",
+        "items": [
+          {
+            "header1": "",
+            "header2": "",
+            "location": "",
+            "duration": "",
+            "text": [
+              "Go, gRPC, Protobuf, REST, Microservices, Temporal, Concurrency, Google Spanner, ClickHouse, MongoDB, Redis, GCP, Kubernetes, Docker, GitHub Actions, GitLab CI/CD, Trivy, PostHog, Grafana, React",
+              "Languages: Kazakh, Russian (native); English (advanced)"
+            ]
+          }
+        ]
+      }
+    ]
   },
   "ru": {
     "head": {
@@ -110,30 +104,45 @@
     },
     "content": [
       {
+        "title": "Профиль",
+        "items": [
+          {
+            "header1": "",
+            "header2": "Backend Software Engineer | Go",
+            "location": "",
+            "duration": "",
+            "text": [
+              "Go backend-разработчик с 3+ годами опыта: от систем для общественного транспорта в госсекторе до логистического SaaS. На последнем проекте отвечал за топливный модуль Vektor TMS — платформы, через которую прошло $3.5B+ грузоперевозок перевозчиков Северной Америки и Европы."
+            ]
+          }
+        ]
+      },
+      {
         "title": "Опыт работы",
         "items": [
           {
-            "header1": "Sagi",
-            "header2": "Backend-разработчик (Golang)",
-            "location": "Астана, Казахстан",
-            "duration": "Июль 2025 – Настоящее время",
+            "header1": "Veido — Vektor TMS",
+            "header2": "Software Engineer (Go / Backend), контракт",
+            "location": "Удалённо",
+            "duration": "Март 2026 – Сентябрь 2026",
             "text": [
-              "Оптимизировал агрегационные конвейеры MongoDB, снизив задержку запросов с 25мс до <4мс",
-              "Разработал микросервисы REST API на Golang, обрабатывающие 10K+ запросов/день, обеспечив интеграцию с 7+ бизнес-партнерами",
-              "Рефакторинг монолитной кодовой базы в модульную архитектуру с использованием внедрения зависимостей и паттернов чистой архитектуры, сократив время разработки функций на 15%",
-              "Управлял инфраструктурой на Kubernetes с автоматизированными CI/CD конвейерами через GitLab"
+              "Превратил legacy-модуль топлива, который только импортировал данные, в полноценный продукт: управление картами, приём транзакций, удержания в settlements, выявление аномалий, аналитика и IFTA",
+              "Писал спецификации, схемы данных и план реализации на основе требований клиентов; через модуль проходит $250K+ топливных расходов в месяц только у одного клиента",
+              "Спроектировал новую БД и микросервисы на Go/gRPC в GCP и Spanner, поэтапно мигрировал с backfill данных, использовал ClickHouse для аналитики, разработал UI модуля на React",
+              "Стабилизировал существующие интеграции с провайдерами и добавил новые (WEX, EFS, TCS Fuel, Comdata, QuickQ); решал инциденты синхронизации напрямую с провайдерами",
+              "Настроил unit-, интеграционные и E2E-тесты (эмулятор Spanner) в GitHub Actions с Trivy и линтерами; онбордил 2 разработчиков и ревьюил PR по топливному модулю"
             ]
           },
           {
-            "header1": "iQadam Systems",
-            "header2": "Стажёр Backend-разработчика (Golang)",
+            "header1": "Sagi",
+            "header2": "Backend-разработчик (Go)",
             "location": "Астана, Казахстан",
-            "duration": "Ноябрь 2024 – Май 2025",
+            "duration": "Февраль 2025 – Март 2026",
             "text": [
-              "Перепроектировал схему MongoDB с правильной индексацией и стратегиями денормализации, улучшив производительность запросов на 30% для 500K+ документов",
-              "Разработал RESTful API на Go с использованием фреймворка Gin, реализовав аутентификацию, безопасность и обработку ошибок для 15+ эндпоинтов",
-              "Документировал 100% бэкенд API с использованием спецификации Swagger/OpenAPI 3.0, сократив время интеграции фронтенда на 2 дня на фичу",
-              "Реализовал стек middleware на Go для структурированного логирования, rate limiting по алгоритму token bucket (100 req/min) и валидации запросов"
+              "Снизил задержку MongoDB-запросов с 25 мс до менее 4 мс (более 84%) за счёт оптимизации aggregation pipelines",
+              "Разрабатывал REST API и бизнес-процессы в Go-монолите, интегрировал 7+ бизнес-партнёров",
+              "Рефакторил свои функциональные области монолита в модули по Clean Architecture с dependency injection",
+              "Разработал процессы платежей и уведомлений на Temporal с очередями на Redis и worker pools на Go; управлял Kubernetes-деплойментами и GitLab CI/CD"
             ]
           }
         ]
@@ -143,52 +152,31 @@
         "items": [
           {
             "header1": "Astana IT University",
-            "header2": "Степень магистра, Разработка безопасного ПО",
+            "header2": "Магистратура, Разработка безопасного ПО",
             "location": "Астана, Казахстан",
-            "duration": "Сент 2025 – Июнь 2027",
+            "duration": "Сентябрь 2025 – Июнь 2027",
             "text": []
           },
           {
             "header1": "Astana IT University",
-            "header2": "Степень бакалавра, Программная инженерия. GPA - 3.39",
+            "header2": "Бакалавриат, Программная инженерия",
             "location": "Астана, Казахстан",
-            "duration": "Сент 2022 – Июня 2025",
-            "text": [
-              "Релевантные курсы: Продвинутое программирование (Golang), Веб-технологии (Node.js, React.js), Продвинутые базы данных (MongoDB), Паттерны разработки ПО, Облачные вычисления"
-            ]
+            "duration": "Сентябрь 2022 – Июнь 2025",
+            "text": []
           }
         ]
       },
       {
-        "title": "Навыки и интересы",
+        "title": "Навыки",
         "items": [
           {
             "header1": "",
-            "header2": "Языки программирования",
+            "header2": "",
             "location": "",
             "duration": "",
             "text": [
-              "Golang, Java"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Технологии",
-            "location": "",
-            "duration": "",
-            "text": [
-              "MongoDB, Redis, Docker, Kubernetes, Temporal, GitLab CI/CD, Grafana, DigitalOcean, HTML/CSS, JavaScript, React.js, Git, Linux"
-            ]
-          },
-          {
-            "header1": "",
-            "header2": "Языки",
-            "location": "",
-            "duration": "",
-            "text": [
-              "Казахский, Русский - Родной",
-              "Английский - Продвинутый",
-              "Немецкий, Испанский - Начальный"
+              "Go, gRPC, Protobuf, REST, Microservices, Temporal, Concurrency, Google Spanner, ClickHouse, MongoDB, Redis, GCP, Kubernetes, Docker, GitHub Actions, GitLab CI/CD, Trivy, PostHog, Grafana, React",
+              "Языки: казахский, русский (родные); английский (продвинутый)"
             ]
           }
         ]
